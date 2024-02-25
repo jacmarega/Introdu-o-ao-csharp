@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransferirArquivosServer", "TransferirArquivosServer\TransferirArquivosServer.csproj", "{AA98CD8F-8D5C-480C-BCB4-B1D1D81BFF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA98CD8F-8D5C-480C-BCB4-B1D1D81BFF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA98CD8F-8D5C-480C-BCB4-B1D1D81BFF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA98CD8F-8D5C-480C-BCB4-B1D1D81BFF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA98CD8F-8D5C-480C-BCB4-B1D1D81BFF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44453231-60C0-42B3-B097-58A59E0F7F77}
+	EndGlobalSection
+EndGlobal

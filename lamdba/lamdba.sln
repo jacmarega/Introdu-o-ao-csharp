@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lamdba", "lamdba\lamdba.csproj", "{6BDF4671-80B7-466C-941D-60690AD8795B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDF4671-80B7-466C-941D-60690AD8795B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDF4671-80B7-466C-941D-60690AD8795B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDF4671-80B7-466C-941D-60690AD8795B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDF4671-80B7-466C-941D-60690AD8795B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAEC9983-A738-4D73-830A-35F671077588}
+	EndGlobalSection
+EndGlobal
